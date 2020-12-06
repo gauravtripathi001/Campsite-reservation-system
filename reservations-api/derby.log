@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Dec 06 12:43:45 MST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0176-3994-d7bd-000001339260 
+on database directory memory:C:\Users\15879\Documents\Github projects\Campsite reservation system\reservations-api\90ac86f0-26cb-476d-ad09-5731c63e855a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/15879/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.2+8
+user.dir=C:\Users\15879\Documents\Github projects\Campsite reservation system\reservations-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
