@@ -22,7 +22,6 @@ public class ReservationController {
     public void addReservation(@RequestBody Reservation reservation){
         reservationService.addReservation(reservation);
     }
-
     @RequestMapping(method = RequestMethod.PUT,value="/reservations/{id}")
     public void addReservation(@RequestBody Reservation reservation,@PathVariable String id){
         reservationService.updateReservation(id,reservation);
